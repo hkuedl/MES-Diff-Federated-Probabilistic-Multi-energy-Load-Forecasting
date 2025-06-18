@@ -6,13 +6,3 @@ Codes for the paper "Secure Federated Probabilistic Load Forecasting for Multi-e
 Authors: Yangze Zhou*, Xiaorong Wang*, Zhixian Wang, Nan Lu, Yi Wang（* These authors contributed equally to this work).
 
 
-
-### Requirements
-
-
-### Dataset
-xxx
-
-
-### 
-xxx
